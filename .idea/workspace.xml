@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd72443a-ae0d-425d-9723-defbb9641c97" name="Default Changelist" comment="" />
+    <list default="true" id="fd72443a-ae0d-425d-9723-defbb9641c97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xsh/easy/TwoPointFind.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604645799602</updated>
       <workItem from="1604645804028" duration="3714000" />
+      <workItem from="1605061339784" duration="184000" />
     </task>
     <servers />
   </component>
